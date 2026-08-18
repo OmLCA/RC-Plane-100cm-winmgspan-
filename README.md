@@ -1,6 +1,4 @@
-# 100 cm Wingspan RC Plane
-
-This is my custom 100 cm wingspan RC plane project.
+# RC Trainer plane of 100cm wingspan
 
 This repository contains the aircraft plans, CAD files, build documentation, electronics information, and progress photos.
 
