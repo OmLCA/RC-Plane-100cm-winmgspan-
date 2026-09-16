@@ -5,9 +5,9 @@ This repository contains the aircraft plans, CAD files, build documentation, ele
 Status: In development
 
 Files:
-Build plans
-CAD files
-Build photos
+Build plans,
+CAD files,
+Build photos,
 Flight tests
 
 More information will be added as the project progresses.
