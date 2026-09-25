@@ -1,13 +1,19 @@
 # RC Trainer plane of 100cm wingspan
 
-This repository contains the aircraft plans, CAD files, build documentation, electronics information, and progress photos.
+A lightweight **100 cm wingspan RC trainer plane** designed and built using **Depron sheets**.
 
-Status: In development
+### Specifications
 
-Files:
-Build plans,
-CAD files,
-Build photos,
-Flight tests
+* **Wingspan:** 100 cm
+* **Wing Chord:** 18 cm
+* **Fuselage Length:** 68.2 cm
+* **Fuselage Width:** 8 cm
+* **Airfoil:** Flat-bottom
+* **Material:** Depron sheet
+* **Status:** Prototype Complete ✅
 
-More information will be added as the project progresses.
+### Project Status
+
+The prototype is complete and ready for **maiden flight testing**.
+
+🎥 Flight-test videos will be added after the first test flight.
